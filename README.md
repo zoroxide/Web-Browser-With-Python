@@ -1,6 +1,6 @@
 # Web-Browser-With-Python
 
-#### Basic and simple Web Browser Powered by Python (PyQtWebEngine, PyQt)
+- Basic and simple Web Browser Powered by Python (PyQtWebEngine, PyQt)
 
 <br>
 
