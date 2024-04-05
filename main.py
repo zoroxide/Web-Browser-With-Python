@@ -47,7 +47,7 @@ class MainWindow(QMainWindow):
 
     def update_url(self, q):
         self.url_bar.setText(q.toString())
-        #
+        
 
 
 app = QApplication(sys.argv)
